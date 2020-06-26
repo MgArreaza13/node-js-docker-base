@@ -1,3 +1,3 @@
 export const mongodb = {
-    "URI": "mongodb://localhost/main"
+    "URI": "mongodb://mongo:27017/main"
 }
