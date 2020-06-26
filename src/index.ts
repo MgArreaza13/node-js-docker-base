@@ -5,6 +5,7 @@ import IndexRoutes from './routes';
 
 // Initializations
 const app = express();
+import './database' 
 
 // Settings
 app.set('port', process.env.PORT || 3000);
